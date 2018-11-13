@@ -17,7 +17,7 @@ Either way you are viewing this, welcome!
 
 I am currently working on a Bachelor of Science degree in Computer Science at Virginia Tech.
 
-Currently, I am planning to work in the field of cybersecurity, and am looking for opportunities.
+Currently, I am planning to work in the field of cybersecurity, and am looking for opportunities to gain early experience in the field.
 
 More relevant information about me can be found below.
 
@@ -63,14 +63,14 @@ More relevant information about me can be found below.
 ### Human
 
 + Fluent and native in Chinese as spoken in household.
-+ Fluent in English after public school experience
-+ Intermediate in Japanese after self-studying and attending Virginia Governor’s School Japanese Academy 16'
++ Fluent in English after public school experience.
++ Intermediate in Japanese after self-studying and attending Virginia Governor’s School Japanese Academy 16'.
 
 
 ## Code
 
 ### Usual Workflow
-+ Personally, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products have Vim-emulation and Git integration plugins that keeps things comfy. 
++ Personally, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products have Vim-emulation, Git integration, and other plugins that keeps things comfy. 
 
 
 
