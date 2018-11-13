@@ -67,8 +67,14 @@ More relevant information about me can be found below.
 + Intermediate in Japanese after self-studying and attending Virginia Governor’s School Japanese Academy 16'.
 
 
-## Code
-
+## Code/Projects
++ MD-CV
+    : Synced resume using PanDoc, CSS, and Markdown. PanDoc converts .md syntax into .pdf and .html. CSS styles the generated website.
++ movingCharacter:
+    : A tile game using Java's JFrame. Animations, On-Player camera, Sprinting, and basic collision detection are implemented.
++ Dreambot-Scripts & Runemate-Scripts
+    : My attempts to make OSRS bots when I was still into RuneScape.
+    
 ### Usual Workflow
 + Personally, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products have Vim-emulation, Git integration, and other plugins that keeps things comfy. 
 
