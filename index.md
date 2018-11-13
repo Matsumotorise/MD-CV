@@ -69,11 +69,11 @@ More relevant information about me can be found below.
 
 
 ## Code/Projects
-+ MD-CV
++ [MD-CV](https://github.com/Matsumotorise/MD-CV)
     : Synced resume using PanDoc, CSS, and Markdown. PanDoc converts .md syntax into .pdf and .html. CSS styles the generated website.
-+ movingCharacter:
++ [movingCharacter](https://github.com/Matsumotorise/movingCharacter)
     : A tile game using Java's JFrame. Animations, On-Player camera, Sprinting, and basic collision detection are implemented.
-+ Dreambot-Scripts & Runemate-Scripts
++ [Dreambot-Scripts](https://github.com/Matsumotorise/DreamBot-Scripts) & [Runemate-Scripts](https://github.com/Matsumotorise/Runemate-Scripts)
     : My attempts to make OSRS bots when I was still into RuneScape.
     
 ### Usual Workflow
