@@ -23,7 +23,7 @@ More relevant information about me can be found below.
 
 ## Contact/Info
 
-+ Phone: [(540) 994–7970](tel:+5409947970)
++ Phone: [(540) 994–7970](tel:1-540-994-7970)
 + Email: [andrewclchan211@vt.edu](mailto:andrewclchan211@vt.edu)
 + Linkedin: [https://linkedin.com/in/aclc](https://linkedin.com/in/aclc)
 + Github: [https://github.com/Matsumotorise](https://github.com/Matsumotorise)
