@@ -17,7 +17,7 @@ Either way you are viewing this, welcome!
 
 I am currently working on a Bachelor of Science degree in Computer Science at Virginia Tech.
 
-Currently, I am planning to work in the field of cybersecurity, and am looking for opportunities to gain early experience in the field.
+Currently, I am planning to work in the field of cybersecurity and am looking for opportunities to gain early experience in the field.
 
 More relevant information about me can be found below.
 
