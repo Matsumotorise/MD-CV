@@ -38,7 +38,7 @@ More relevant information about me can be found below.
 
 # Relevant Experiences
 
-## Work and voluenteer experience
+## Work and volunteer experience
 
 + **Robotics club 17-18'**
     + Developed frameworks for autonomous and manual controls for VEX  robotics competitions for my high school’s robotics team 
