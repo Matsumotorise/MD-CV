@@ -70,7 +70,7 @@ More relevant information about me can be found below.
 ## Code
 
 ### Usual Workflow
++ Personally, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products have Vim-emulation and Git integration plugins that keeps things comfy. 
 
-### Programs I'm familiar with.
 
 
