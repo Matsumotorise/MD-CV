@@ -52,7 +52,7 @@ More relevant information about me can be found below.
 
 + **Math MACC Captain 17-18'**
     + Led team to 4th out of 9th place in the 2017-2018 school year
-+ **Foreign Language Club president 17-18**
++ **Foreign Language Club president 17-18'**
     + Coordinated monthly club activities to advance multilingualism of members
 
 ## Languages 
