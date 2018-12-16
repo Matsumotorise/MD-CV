@@ -77,7 +77,7 @@ More relevant information about me can be found below.
     : My attempts to make OSRS bots when I was still into RuneScape.
     
 ### Usual Workflow
-+ Personally, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products have Vim-emulation, Git integration, and other plugins that keeps things comfy. 
++ Personally, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products have Vim-emulation, Git integration, and other plugins that keeps the development environment comfortable. 
 
 
 
