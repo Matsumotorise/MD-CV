@@ -64,9 +64,9 @@ body {
     border-radius: 20px;
     font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     line-height: 1.7;
-    padding: .125em 1em 0.5em 1em;
+    padding: .125em 1.5em 0.5em 1.5em;
     margin: auto;
-    width: 1000px;
+    width: 80%;
     font-size: 20px;
     color: #ddd;
     background: black;
