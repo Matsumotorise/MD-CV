@@ -6,7 +6,6 @@ header-includes:
  - \usepackage[margin=.5in]{geometry}
 classoption: "12pt"
 ---
-
 # About
 Hello! I'm Andrew Chan.
 
@@ -53,7 +52,7 @@ More relevant information about me can be found below.
 + [movingCharacter](https://github.com/Matsumotorise/movingCharacter)
     : A tile game using Java's JFrame. Animations, On-Player camera, Sprinting, and basic collision detection are implemented.
 + [Dreambot-Scripts](https://github.com/Matsumotorise/DreamBot-Scripts) & [Runemate-Scripts](https://github.com/Matsumotorise/Runemate-Scripts)
-    : My attempts to make OSRS bots when I was still into RuneScape.
+    : Bots for Oldschool Runescape with basic anti-ban support.
     
 ### Usual Workflow
 + I am running Arch Linux with LXDE/Openbox with tiling script keybinds and Tilda as my terminal emulator.
