@@ -15,7 +15,7 @@ Either format you are viewing this, welcome!
 
 I am currently working on a Bachelor of Science degree in Computer Science at Virginia Tech.
 
-Currently, I plan to work in the field of Cybersecurity and am looking for opportunities to gain early experience.
+Currently, I plan to work in the field of Cybersecurity or software development and am looking for opportunities to gain early experience.
 
 More relevant information about me can be found below.
 
@@ -27,26 +27,22 @@ More relevant information about me can be found below.
 + Website: [https://matsumotorise.github.io/MD-CV/](https://matsumotorise.github.io/MD-CV/)
 
 ## Education
-+ Pulaski County High School
-    + GPA: 4.135 | SAT: 1440
 + Virginia Tech 
     + GPA: 3.76
     + Pursuing B.S. in Computer Science   
         + Expected graduation 2022
 
-# Relevant Experiences
+# Languages 
 
-## Languages 
+## Machine
++ Java, C/C++, Python, RobotC, TIBasic, and MATLAB  
 
-### Machine
-+ Java, C/C++, Python, RobotC, and MATLAB  
-
-### Human
+## Human
 + Fluent and native in Chinese as spoken in household.
 + Fluent in English after attending public school K-12.
 + Intermediate in Japanese after self-studying and attending Virginia Governor’s School Japanese Academy 16'.
 
-## Code/Projects
+# Code/Projects
 + [MD-CV](https://github.com/Matsumotorise/MD-CV)
     : Synced resume using PanDoc, CSS, and Markdown. PanDoc converts .md syntax into .pdf and .html. CSS styles the generated website.
 + [movingCharacter](https://github.com/Matsumotorise/movingCharacter)
@@ -54,11 +50,11 @@ More relevant information about me can be found below.
 + [Dreambot-Scripts](https://github.com/Matsumotorise/DreamBot-Scripts) & [Runemate-Scripts](https://github.com/Matsumotorise/Runemate-Scripts)
     : Bots for Oldschool Runescape with basic anti-ban support.
     
-### Usual Workflow
+## Usual Workflow
 + I am running Arch Linux with LXDE/Openbox with tiling script keybinds and Tilda as my terminal emulator.
 + For development, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products support Vim-emulation, Git integration, and other plugins that keeps the development environment comfortable while retaining IDE generation. 
 
-## Work and volunteer experience
+# Work and volunteer experience
 + **Undergraduate Reserach Assistant 19-**
     + Worked with dynamixel servos to model mechanical data of rotary movement.
 + **Pulaski Grow Volunteer 17-18'**
@@ -66,7 +62,7 @@ More relevant information about me can be found below.
 + **Pulaski Town Engineering Office Internship 16-17'**
     + Retrieved and entered data for the town’s coordinate system of various  public structures (stoplights, manholes, stoplights, etc.) 
     
-## Extracurriculars
+# Extracurriculars
 + [Cyber Security club 18-](http://vtcsec.org/)
     + Learned the basics of hacking alongside CTF challenges.
 + [Maker Club 18-](https://gobblerconnect.vt.edu/organization/makerclub)
@@ -74,13 +70,13 @@ More relevant information about me can be found below.
 + **Robotics club 17-18'**
     + Developed frameworks for autonomous and manual controls for VEX  robotics competitions for my high school’s robotics team. 
 
-## Leadership positions
+# Leadership positions
 + **Math MACC Captain 17-18'**
     + Led team to 4th out of 9th place in the 2017-2018 school year.
 + **Foreign Language Club president 17-18'**
     + Coordinated club activities to advance multilingualism of members.
     
-## Awards/Honors
+# Awards/Honors
 + **[A. James & Alice B. Clark Engineering Scholarship](https://www.clarkfoundationdc.org/approach/engineering/clark-scholars/)**
     + Full scholarship (room, tuition, and fees) awarded for academic pursuit.
 + **Virginia Foreign Language Certificates of Commendation**
