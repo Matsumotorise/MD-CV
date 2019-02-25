@@ -30,7 +30,7 @@ More relevant information about me can be found below.
 + Pulaski County High School
     + GPA: 4.135 | SAT: 1440
 + Virginia Tech 
-    + GPA: 3.75
+    + GPA: 3.76
     + Pursuing B.S. in Computer Science   
         + Expected graduation 2022
 
@@ -59,6 +59,8 @@ More relevant information about me can be found below.
 + For development, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products support Vim-emulation, Git integration, and other plugins that keeps the development environment comfortable while retaining IDE generation. 
 
 ## Work and volunteer experience
++ **Undergraduate Reserach Assistant 19-**
+    + Worked with dynamixel servos to model mechanical data of rotary movement.
 + **Pulaski Grow Volunteer 17-18'**
     + Planted towers, cut waterbed roots, unclogged water limes, washed  produce, and constructed/fortified plant beds for a local, non-profit  aquaponics organization 
 + **Pulaski Town Engineering Office Internship 16-17'**
