@@ -15,7 +15,7 @@ Either format you are viewing this, welcome!
 
 I am currently working on a Bachelor of Science degree in Computer Science at Virginia Tech.
 
-Currently, I plan to work in the field of Cybersecurity or software development and am looking for an internship. 
+Currently, I plan to work in the field of Cybersecurity or software development and am actively looking for an internship. 
 
 More relevant information about me can be found below.
 
