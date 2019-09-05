@@ -9,13 +9,13 @@ classoption: "12pt"
 # About
 Hello! I'm Andrew Chan.
 
-You're looking at a document written in a .md file that doubles as a .pdf CV and a .html/.css webpage.
+You're looking at a document written in a .md file that doubles as a [.pdf](https://github.com/Matsumotorise/MD-CV/blob/master/index.pdf) CV and a .html/.css webpage.
 
 Either format you are viewing this, welcome! 
 
 I am currently working on a Bachelor of Science degree in Computer Science at Virginia Tech.
 
-Currently, I plan to work in the field of Cybersecurity or software development and am looking for opportunities to gain early experience.
+Currently, I plan to work in the field of Cybersecurity or software development and am looking for an internship. 
 
 More relevant information about me can be found below.
 
@@ -51,7 +51,7 @@ More relevant information about me can be found below.
     : Bots for Oldschool Runescape with basic anti-ban support.
     
 ## Usual Workflow
-+ I am running Arch Linux with LXDE/Openbox with tiling script keybinds and Tilda as my terminal emulator.
++ I am running Arch Linux with i3 with tiling script keybinds and Tilda as my terminal emulator.
 + For development, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products support Vim-emulation, Git integration, and other plugins that keeps the development environment comfortable while retaining IDE generation. 
 
 # Work and volunteer experience
