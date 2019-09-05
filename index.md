@@ -51,7 +51,7 @@ More relevant information about me can be found below.
     : Bots for Oldschool Runescape with basic anti-ban support.
     
 ## Usual Workflow
-+ I am running Arch Linux with i3 with tiling script keybinds and Tilda as my terminal emulator.
++ I am running Arch Linux with i3 with tiling script keybinds and st as my terminal emulator.
 + For development, I use Webstorm, CLion, InteliJ, and PyCharm in my programming. These JetBrains products support Vim-emulation, Git integration, and other plugins that keeps the development environment comfortable while retaining IDE generation. 
 
 # Work and volunteer experience
