@@ -28,7 +28,7 @@ More relevant information about me can be found below.
 
 ## Education
 + Virginia Tech 
-    + GPA: 3.76
+    + GPA: 3.8
     + Pursuing B.S. in Computer Science   
         + Expected graduation 2022
 
